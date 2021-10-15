@@ -1,0 +1,30 @@
+_repo: Guide-to-the-Norris-Geyser-Basin_66364
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Algard, George A.
+    alias: Algard, George Allen
+    birthdate: 1941
+    deathdate: 2012
+    gutenberg_agent_id: '53768'
+    url: http://www.gutenberg.org/2009/agents/53768
+description: ''
+gutenberg_issued: '2021-09-23'
+identifiers:
+  gutenberg: '66364'
+language: en
+pgterms:marc905: 20201118151435algard
+pgterms:marc906: '1974'
+pgterms:marc907: US
+production_note: Stephen Hutcheson and the Online Distributed Proofreading Team at
+  https://www.pgdp.net
+publication_note: United States :Yellowstone Association,1974,reprint 1978.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norris Geyser Basin (Wyo.) -- Guidebooks'
+- !lcc 'F721'
+- GITenberg
+title: Guide to the Norris Geyser Basin
+url: http://www.gutenberg.org/ebooks/66364
